@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Lab {
     /**
      * Write a sorting algorithm for an array, and return a sorted array.
